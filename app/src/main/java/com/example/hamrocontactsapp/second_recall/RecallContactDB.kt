@@ -26,3 +26,6 @@ abstract class RecallContactDB(): RoomDatabase(){
         }
     }
 }
+
+/*
+*  This line just for checking changes push */
